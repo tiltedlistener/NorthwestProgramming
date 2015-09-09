@@ -1,0 +1,34 @@
+// JavaScript
+alert("Hello World");
+
+// Ruby
+put "Hello World"
+
+// PHP
+echo "Hello World";
+
+// Scheme
+(display "Hello World")
+
+// C 
+#include < stdio.h>
+void main()
+{
+    printf("\nHello World\n");
+}
+
+// Haskell
+main = putStrLn "Hello, World!"
+
+// Fortran
+program hello
+	print *, "Hello World!"
+end program hello
+
+// Brainf---
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+
+// Arnold Schwarznegger
+IT'S SHOWTIME
+TALK TO THE HAND "hello world"
+YOU HAVE BEEN TERMINATED
