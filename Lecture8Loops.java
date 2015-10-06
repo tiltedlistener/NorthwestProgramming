@@ -6,7 +6,6 @@ public class Fun {
 		basicFor();
 	}
 	
-	
 	public static void basicWhile() {
 		int max = 10;
 		int counter = 0;
