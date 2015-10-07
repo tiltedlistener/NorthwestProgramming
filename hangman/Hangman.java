@@ -29,7 +29,7 @@ public class Hangman {
 		
 		while (gameRunning) {
 			
-			String guess = helper.getUserInpt("Enter Guess: ");
+			String guess = helper.getUserInput("Enter Guess: ");
 			System.out.println("Guessing " + guess);
 			
 			if (wordToGuess.indexOf(guess) != -1) {
